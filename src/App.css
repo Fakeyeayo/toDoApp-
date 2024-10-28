@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  align-items: flex-start;
+
+}
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+
+.individualTask{
+  height: 40px;
+  width: 80vw;
+  background-color: rgb(75, 93, 156);
+  color: black;
+  align-items:start;
+  display: flex;
+  border-radius:20px ;
+  justify-content: space-between;
+ 
+  
+}
+
+.individualTask, p{
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+align-items: center;
+}
+
+
+
+.taskList{
+  
+}
